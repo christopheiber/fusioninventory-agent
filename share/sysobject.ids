@@ -3844,6 +3844,10 @@
 # specifying a model value prevent fallback on hrDeviceDescr value for better identification
 1347.41	Kyocera	PRINTER
 
+1369    Stonesoft(McAfee-Forcepoint)
+# Stonegate FW (MacAffee)
+1369.5.2        Stonegate       NETWORKING      NGFW
+
 1411	Juniper	NETWORKING
 1411.102	Juniper	NETWORKING	EX2500
 
